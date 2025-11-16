@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP",ES: LA 1
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/648
-#EXTINF:-1 tvg-id="ES: Directes-tv-es.3catdirectes.cat"tvg-name="ES: Directes-tv-es.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="TOP CANALES VIP",ES: Directes tv 3cat
+#EXTINF:-1 tvg-id="ES: Directes-tv-es.3catdirectes.cat"tvg-name="ES: Directes-tv-es.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="ES | TOP CANALES VIP",ES: Directes tv 3cat
 https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=1080
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | TOP CANALES VIP",ES: LA 2
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/649
